@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DataAccessInterface</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>Systems</authors>
+    <owners>Systems</owners>
+    <description>Data Access Interface</description>
+    <dependencies>
+      <group targetFramework="netstandard2.0" />
+    </dependencies>
+  </metadata>
+   <files>
+     <file src="bin\Release\netstandard2.0\DataAccessInterface.*.dll" target="lib\netstandard2.0" />
+  </files>
+</package>
+
+

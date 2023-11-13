@@ -1,0 +1,4 @@
+﻿namespace DataAccessInterface.Domain.Common
+{
+
+}
