@@ -1,8 +1,7 @@
 # FlexContextCnnStringLinker
-C# tool: creates a versatile DLL/NuGet for .NET Framework and .NET Core. Enables projects to pass a connection string for customized DbContext usage.
-
-#Introduction
-DLL in .NET Standard 2.0 compatible with both .NET Framework and .NET Core, designed for logging operations in TechMed, primarily from benefits interfaces.
+C# tool: creates a versatile DLL/NuGet for .NET Framework and .NET Core. Enables projects to pass a connection string for customized DbContext usage. The idea of this project is work as an Interface for centralize the data operations and expose the services for the diverse services projects that need it. 
+Made in .NET Standard 2.0, compatible with .NET Framework and .NET Core.
+It should be noted that the entities, services and operations used are nothing more than examples
 
 #Dependencies
 Autofac
